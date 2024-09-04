@@ -1,2 +1,3 @@
-google.com
-bing.com
+example.com
+anotherdomain.com
+yetanotherdomain.org
